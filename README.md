@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/study-anime.gif" width="100%" />
+</p>
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Shivanand%20%7C%20AI%20Research%20Engineer&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
