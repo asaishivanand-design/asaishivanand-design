@@ -1,128 +1,161 @@
-<h1 align="center">⚡ Shivanand (Nandu) ⚡</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Initializing+System...;Access+Granted+✅;Welcome+to+Nandu's+GitHub;AI+Researcher+in+Progress;Future+IEEE+Author" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Shivanand%20%7C%20AI%20Research%20Engineer&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
+<h1 align="center">Hi 👋, I'm Shivanand</h1>
+<h3 align="center">🚀 AI/ML Research Engineer in Progress | Building Intelligent Systems</h3>
+
+---
+
+## 🧠 Research Profile
+
+I am an aspiring **AI Research Engineer** focused on developing intelligent systems that solve real-world problems in **cybersecurity and data intelligence**.
+
+My work lies at the intersection of:
+
+* 🔐 AI for Cybersecurity
+* 🧠 Deep Learning & Pattern Recognition
+* 🧪 Applied Research & Innovation
+
+I aim to contribute to:
+
+* 📄 IEEE-level Research Publications
+* 🧾 Patentable AI Systems
+* ⚙️ Real-world Deployable Models
+
+---
+
+## 🔥 Current Focus
+
+* 🔐 AI-Based Steganography Detection
+* 🧠 Hybrid ML + DL Architectures
+* 📊 Model Optimization & Accuracy
+* 🧪 Research Paper + Patent Development
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+C | Python | JavaScript
+
+### 🤖 AI/ML
+
+NumPy | Pandas | Scikit-Learn | TensorFlow | CNN
+
+### ⚙️ Tools & Platforms
+
+Git | GitHub | VS Code | Docker
+
+---
+
+## 🔬 Featured Research Project
+
+### 🔐 AI-Based Steganography Detection System
+
+📌 **Problem Statement**
+Detect hidden information embedded inside digital images where conventional techniques fail.
+
+🧠 **Core Approach**
+
+* Hybrid Model: Support Vector Machine (SVM) + Convolutional Neural Network (CNN)
+* Feature Engineering: Statistical + Spatial Domain Analysis
+* Deep Learning: Pixel-level pattern recognition
+
+⚙️ **System Architecture**
+Input Image
+→ Feature Extraction Layer
+→ ML Classifier (SVM)
+→ Deep Learning Model (CNN)
+→ Output: Stego / Clean Classification
+
+📊 **Future Enhancements**
+
+* Adversarial Attack Resistance
+* Real-time Detection Pipeline
+* Cloud-based API Deployment
+
+🚀 **Objective**
+Develop a **research-grade, patent-worthy intelligent detection system**
+
+---
+
+## 🧭 Research Roadmap
+
+* [x] Problem Identification
+* [x] Initial Model Design
+* [ ] Dataset Expansion & Cleaning
+* [ ] Model Optimization (Accuracy Boost)
+* [ ] Research Paper Draft (IEEE Format)
+* [ ] Patent Draft Submission
+
+---
+
+## 📂 Ideal Repository Structure
+
+AI-Steganography-Detector/
+│
+├── dataset/
+├── models/
+├── src/
+│   ├── preprocessing.py
+│   ├── svm_model.py
+│   ├── cnn_model.py
+│
+├── results/
+├── research_notes/
+├── README.md
+└── requirements.txt
+
+---
+
+## 📈 GitHub Analytics
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asaishivanand-design&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asaishivanand-design&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asaishivanand-design&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧠 Who Am I?
-
-```json
-{
-  "name": "Shivanand (Nandu)",
-  "role": "AI/ML Explorer",
-  "education": "B.Tech CSE",
-  "focus": ["Cybersecurity", "Deep Learning", "Research"],
-  "current_project": "Image Steganography Detection",
-  "goal": "Publish in IEEE / Springer",
-  "mindset": "Build → Break → Learn → Repeat"
-}
-```
-
----
-
-## 🧪 Research Lab
-
-### 🔍 Image Steganography Detection 🚀
-
-📌 **Problem**
-- Hidden data inside images  
-- Fails under compression & noise  
-
-💡 **Solution**
-- CNN-based detection  
-- Cross-dataset training  
-- Real-world robustness testing  
-
-🧠 **Pipeline**  
-Image → Preprocessing → CNN → Classification → Evaluation  
-
-📊 **Status**
-- 🟡 In Progress  
-- 🎯 IEEE Paper Target  
-
----
-
-## ⚙️ Tech Stack
+## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,html,git,github,linux,vscode" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asaishivanand-design&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 🚀 Projects
+## 🐍 Contribution Snake (Premium)
 
-### 🔥 Steganography Detection
-- Deep learning-based detection system  
-- Focus on robustness  
-- Research-grade project  
-
-### 🔐 Password Toolkit (C)
-- Secure password generator  
-- Strength analyzer  
-
-### ⌨️ Typing Speed Test
-- HTML + CSS  
-- WPM + accuracy tracking  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/asaishivanand-design/asaishivanand-design/output/github-contribution-grid-snake-dark.svg"/>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ What Sets Me Apart
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=asaishivanand-design&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=asaishivanand-design&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaishivanand-design&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asaishivanand-design&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/asaishivanand-design/asaishivanand-design/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🎯 2026 Mission
-- 📄 Publish IEEE Research Paper  
-- 🤖 Build AI Security Systems  
-- 🧠 Master DSA  
-- 🌐 Launch Portfolio  
+* I focus on **research-driven development**, not just basic projects
+* I aim to build **innovative and patent-level solutions**
+* I combine **theoretical understanding with practical implementation**
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/a-sai-shivanand-9398b3321/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:asaishivanand@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+* 💼 LinkedIn: https://www.linkedin.com/in/a-sai-shivanand-9398b3321/
+* 📧 Email: [asaishivanand@gmail.com](mailto:asaishivanand@gmail.com)
+
+---
+
+## ⚡ Personal Philosophy
+
+> "Don’t just learn technology — build something that pushes its limits."
 
 ---
 
 <p align="center">
-  ⚡ "Consistency builds mastery. Mastery builds legacy."
+  🚀 Building towards Research | Innovation | Impact
 </p>
