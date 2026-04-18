@@ -9,6 +9,9 @@
 <h3 align="center">🚀 AI/ML Research Engineer in Progress | Building Intelligent Systems</h3>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Late+Night+Coding+Sessions;Building+AI+Systems;Research+%7C+Innovation+%7C+Focus" />
+</p>
 
 ## 🧠 Research Profile
 
