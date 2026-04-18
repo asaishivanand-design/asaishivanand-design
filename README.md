@@ -133,7 +133,7 @@ AI-Steganography-Detector/
 
 ---
 
-## 🐍 Contribution Snake (Premium)
+## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/asaishivanand-design/asaishivanand-design/output/github-contribution-grid-snake-dark.svg"/>
