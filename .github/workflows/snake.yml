@@ -22,8 +22,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Deploy to GitHub Pages (output branch)
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          branch: output
-          folder: dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
