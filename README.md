@@ -1,4 +1,4 @@
-````md id="2jxj10"
+md id="2jxj10"
 <p align="center">
   <img src="https://media.tenor.com/2roX3uxz_68AAAAC/study-anime.gif" width="100%" />
 </p>
