@@ -1,321 +1,247 @@
-md id="2jxj10"
+# ⚔️ Hey there, I'm **Shivanand** ⚔️
+
+```{=html}
 <p align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/study-anime.gif" width="100%" />
+```
+`<img src="https://media.giphy.com/media/QtZSl6mcqfmvCBI2cb/giphy.gif" width="100%" />`{=html}
+```{=html}
 </p>
-
+```
+```{=html}
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Shivanand%20%7C%20AI%20Research%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20%7C%20Deep%20Learning%20%7C%20Research%20Innovation&descAlignY=58&descSize=18"/>
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:0F2027&height=260&section=header&text=Shivanand&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=AI%20Research%20|%20Computer%20Vision%20|%20Cybersecurity&descAlignY=60"/>`{=html}
+```{=html}
 </p>
-
-<h1 align="center">Hi 👋, I'm Shivanand</h1>
-
+```
+```{=html}
 <h3 align="center">
-🚀 AIML Research Engineer in Progress
+```
+🚀 AI Research Engineer in Progress
+```{=html}
 </h3>
-
+```
+```{=html}
 <p align="center">
-⚡ No Coffee • No Tea • No Caffeine <br>
-🧠 Just Curiosity, Late-Night Research, and Questionable Sleep Decisions
+```
+Building intelligent systems for Scientific Image Forensics, Computer
+Vision and AI Security.
+```{=html}
 </p>
-
+```
+```{=html}
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asaishivanand-design&label=Profile%20Views&color=0e75b6&style=flat" />
+```
+`<img src="https://komarev.com/ghpvc/?username=asaishivanand-design&style=for-the-badge&color=blueviolet"/>`{=html}
+`<img src="https://img.shields.io/github/followers/asaishivanand-design?style=for-the-badge&color=blueviolet"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=950&lines=Late+Night+Coding+Without+Caffeine;Building+AI+Systems+at+2AM;Research+%7C+Anime+%7C+Innovation;Hybrid+CNN+%2B+Vision+Transformer+Research;Running+Purely+on+Curiosity+and+Delusion;Training+Models+and+Destroying+Sleep+Schedules" />
-</p>
+# 🧠 About Me
 
----
+-   🎓 Integrated M.Tech CSE (AI & ML), SRM University AP
+-   🔬 Member, **Singularity Lab**
+-   📄 Published research in **IJRASET**
+-   🧠 Working on an IEEE research paper on Scientific Image Forensics
+-   🔐 Interested in AI Security, Steganography Detection and Computer
+    Vision
+-   🌱 Currently learning Deep Learning, Vision Transformers and MLOps
 
-# 🧠 Research Profile
+------------------------------------------------------------------------
 
-I’m an aspiring AI Research Engineer exploring the intersection of:
+# 🔬 Current Research
 
-- 🔐 Cybersecurity
-- 👁️ Computer Vision
-- 🧠 Deep Learning
-- 🧪 Scientific Image Forensics
-- 🤖 AI-generated Content Detection
+## Hybrid CNN--Vision Transformer Framework for Detecting AI-generated and Steganographically Manipulated Scientific Images
 
-Most people use AI to generate images.
+### Current Progress
 
-I’m trying to build systems that detect when those images are fake 😭
+-   ✅ Literature Review
+-   ✅ Problem Definition
+-   🔄 Dataset Collection
+-   🔄 Baseline CNN
+-   ⏳ Hybrid CNN + ViT
+-   ⏳ Explainable AI
+-   ⏳ IEEE Submission
 
-Currently focused on developing research-oriented intelligent systems using hybrid deep learning architectures while surviving engineering life with zero caffeine intake.
+------------------------------------------------------------------------
 
----
+# 📄 Publications
 
-# 🔥 Current Focus
+## Comparative Analysis of Machine Learning Models for Detecting Image Steganography using Noise-Based Features
 
-- 🔬 AI-generated Scientific Image Detection
-- 🔐 Steganography Detection Systems
-- 🧠 Hybrid CNN + Vision Transformer Architectures
-- 📊 Deep Feature Extraction & Optimization
-- 🧪 IEEE Research Paper Development
-- ⚡ Research-grade AI Pipelines
+**Published in IJRASET**
 
----
+Topics: - Machine Learning - Image Steganography - Digital Forensics -
+Cybersecurity
 
-# 🛠️ Tech Stack
+------------------------------------------------------------------------
 
-## 👨‍💻 Languages
+# 🚀 Featured Projects
 
+### 🧠 AI Scientific Image Forensics
+
+Hybrid CNN + Vision Transformer for detecting manipulated scientific
+images.
+
+### 🔐 Steganography Detection using Machine Learning
+
+Traditional ML models trained on handcrafted noise features.
+
+### 🖼️ Steganography Detection using CNN
+
+Deep learning based steganography detector.
+
+### 📦 Inventory Optimization System
+
+DSA project developed in C.
+
+------------------------------------------------------------------------
+
+# 🛠 Tech Stack
+
+### Languages
+
+```{=html}
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,js" />
+```
+`<img src="https://skillicons.dev/icons?i=python,c,java"/>`{=html}
+```{=html}
 </p>
+```
+### AI / ML
 
----
-
-## 🤖 AI / Machine Learning
-
+```{=html}
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+```
+`<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>`{=html}
+```{=html}
 </p>
+```
+NumPy • Pandas • Scikit-learn • OpenCV • Matplotlib
 
-NumPy • Pandas • Scikit-Learn • OpenCV • CNN • Vision Transformers • Matplotlib
+### Tools
 
----
-
-## ⚙️ Tools & Platforms
-
+```{=html}
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+```
+`<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-# 🔬 Featured Research Project
+# 📚 Research Interests
 
-## 🧠 Hybrid CNN-Vision Transformer Framework for Scientific Image Forensics
+-   Computer Vision
+-   AI Security
+-   Scientific Image Forensics
+-   Explainable AI
+-   Vision Transformers
+-   Deep Learning
+-   Digital Forensics
 
-### 📌 Objective
+------------------------------------------------------------------------
 
-Detect AI-generated and steganographically manipulated scientific images using hybrid deep learning architectures.
+# 🏆 Achievements
 
----
+-   📄 IJRASET Research Publication
+-   🔬 IEEE Research (In Progress)
+-   🚀 GSSoC Contributor
+-   🧠 Member --- Singularity Lab
+-   💡 Hackathon Participant
 
-### 🧠 Core Technologies
-
-- Convolutional Neural Networks (CNNs)
-- Vision Transformers (ViTs)
-- Deep Feature Extraction
-- Image Forensics
-- Explainable AI
-
----
-
-### ⚙️ Research Goals
-
-- Detect manipulated scientific imagery
-- Improve robustness against adversarial modifications
-- Develop explainable forensic AI systems
-- Create a scalable intelligent detection pipeline
-
----
-
-### 📊 Technical Targets
-
-- 🎯 Target Accuracy: 95%+
-- 🖼️ Dataset Goal: 50,000+ Images
-- ⚡ Fast Inference Pipeline
-- 📄 IEEE Conference Submission
-
----
-
-### 🚀 Future Enhancements
-
-- Adversarial Attack Resistance
-- Real-time Detection Pipeline
-- Cloud-based API Deployment
-- Research Dashboard Visualization
-
----
-
-# 🧭 Research Roadmap
-
-- [x] Problem Identification
-- [x] Initial Model Design
-- [x] Literature Review
-- [ ] Dataset Expansion & Cleaning
-- [ ] Hybrid Architecture Optimization
-- [ ] Explainability Integration
-- [ ] IEEE Paper Draft
-- [ ] Experimental Evaluation
-- [ ] Patent Exploration
-
----
-
-# 📚 Current Research Interests
-
-- Scientific Image Forensics
-- Vision Transformers
-- Adversarial Robustness
-- AI-generated Image Detection
-- Explainable AI (XAI)
-- AI Security & Cyber Forensics
-
----
-
-# 🌍 Open Source Journey
-
-- Exploring research-oriented open-source projects
-- Learning collaborative development workflows
-- Building reproducible AI research systems
-- Contributing to practical AI solutions
-
----
-
-# 📂 Repository Structure
-
-```text
-AI-Scientific-Image-Forensics/
-│
-├── dataset/
-├── models/
-├── notebooks/
-├── research_notes/
-├── results/
-├── src/
-│   ├── preprocessing.py
-│   ├── feature_extraction.py
-│   ├── cnn_model.py
-│   ├── vit_model.py
-│   ├── hybrid_model.py
-│   └── evaluation.py
-│
-├── requirements.txt
-└── README.md
-````
-
----
+------------------------------------------------------------------------
 
 # 📈 GitHub Analytics
 
+```{=html}
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asaishivanand-design&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaishivanand-design&layout=compact&theme=tokyonight&hide_border=true"/>
+```
+`<img src="https://github-readme-stats.vercel.app/api?username=asaishivanand-design&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaishivanand-design&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
-
----
-
-# 🔥 GitHub Streak
-
+```
+```{=html}
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asaishivanand-design&theme=tokyonight&hide_border=true"/>
+```
+`<img src="https://github-readme-streak-stats.herokuapp.com/?user=asaishivanand-design&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
-
----
-
-# 📊 Contribution Graph
-
+```
+```{=html}
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asaishivanand-design&theme=tokyo-night"/>
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=asaishivanand-design&theme=tokyo-night"/>`{=html}
+```{=html}
 </p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-profile-trophy.vercel.app/?username=asaishivanand-design&theme=tokyonight&no-frame=true&margin-w=8"/>`{=html}
+```{=html}
+</p>
+```
 
----
+------------------------------------------------------------------------
 
 # 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/asaishivanand-design/asaishivanand-design/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
----
-
-# ⚡ What Sets Me Apart
-
-* 🧠 Research-driven development mindset
-* ⚙️ Focus on scalable intelligent systems
-* 🔬 Strong interest in AI security & forensics
-* 🚀 Combining theory with practical implementation
-* 📄 Working toward impactful research contributions
-
----
-
-# 🎭 Fun Facts
-
-* ❌ I don't drink coffee
-* ❌ I don't drink tea
-* ❌ I don't use caffeine
-
-Yet somehow:
-
-* ✅ Train deep learning models at 2AM
-* ✅ Read research papers for fun
-* ✅ Debug code for hours
-* ✅ Convince myself "one more experiment" won't take all night
-
-My sleep schedule fears me.
-
----
-
-# 🌐 Connect With Me
-
+```{=html}
 <p align="center">
-
-<a href="mailto:asaishivanand@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50" />
-</a>
-
-   
-
-<a href="https://www.linkedin.com/in/sai-shivanand-appalla-9398b3321/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
-
-   
-
-<a href="https://github.com/asaishivanand-design" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="50" />
-</a>
-
-   
-
-<a href="https://www.instagram.com/_shivanand_21/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="50" />
-</a>
-
+```
+`<img src="https://raw.githubusercontent.com/asaishivanand-design/asaishivanand-design/output/github-contribution-grid-snake-dark.svg"/>`{=html}
+```{=html}
 </p>
+```
 
+------------------------------------------------------------------------
+
+# 🎯 2026 Goals
+
+-   📄 Publish IEEE paper
+-   🧠 Build production-ready AI systems
+-   🌍 Contribute to Open Source
+-   🏆 Participate in national hackathons
+-   💼 Secure an AI Research Internship
+
+------------------------------------------------------------------------
+
+# 🌐 Connect
+
+```{=html}
 <p align="center">
-
-📧 <b>Email:</b> [asaishivanand@gmail.com](mailto:asaishivanand@gmail.com)
-
-🔗 <b>LinkedIn:</b> linkedin.com/in/sai-shivanand-appalla-9398b3321
-
-📸 <b>Instagram:</b> @_shivanand_21
-
-💻 <b>GitHub:</b> github.com/asaishivanand-design
-
+```
+`<a href="mailto:asaishivanand@gmail.com">`{=html}`<img src="https://skillicons.dev/icons?i=gmail" height="45"/>`{=html}`</a>`{=html}
+`<a href="https://github.com/asaishivanand-design">`{=html}`<img src="https://skillicons.dev/icons?i=github" height="45"/>`{=html}`</a>`{=html}
+`<a href="https://www.linkedin.com/in/sai-shivanand-appalla-9398b3321/">`{=html}`<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>`{=html}`</a>`{=html}
+`<a href="https://www.instagram.com/_shivanand_21/">`{=html}`<img src="https://skillicons.dev/icons?i=instagram" height="45"/>`{=html}`</a>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-# ⚡ Personal Philosophy
+# 💭 Philosophy
 
-> “Don’t just learn technology — build systems that push its limits.”
+> *"Don't just use AI. Build AI that people can trust."*
 
----
-
+```{=html}
 <p align="center">
-  <i>"The future belongs to those who build it."</i>
+```
+Research • Code • Anime • Innovation
+```{=html}
 </p>
-
+```
+```{=html}
 <p align="center">
-  ⚔️ Research • Code • Anime • Innovation
-</p>
-
----
-
-<p align="center">
-  🚀 Building Towards Research • Innovation • Impact
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:0F2027&height=120&section=footer"/>`{=html}
+```{=html}
 </p>
 ```
