@@ -1,4 +1,4 @@
-#  **__Shivanand__** 
+#  **Shivanand** 
 
 <p align="center">
   <img src="https://media.giphy.com/media/QtZSl6mcqfmvCBI2cb/giphy.gif" width="100%" />
