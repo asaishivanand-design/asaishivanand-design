@@ -29,7 +29,7 @@ Hybrid **CNN + Vision Transformer** pipeline for detecting AI-generated and steg
 ### 🎮 Contribution Shooter
 
 <p align="center">
-  <img src="./game.gif" alt="GitHub contribution space shooter" width="100%" />
+  <img src="https://raw.githubusercontent.com/asaishivanand-design/asaishivanand-design/main/game.gif" alt="GitHub contribution space shooter" width="100%" />
 </p>
 
 ### 🐍 Contribution Snake
@@ -41,17 +41,11 @@ Hybrid **CNN + Vision Transformer** pipeline for detecting AI-generated and steg
 ### 🌐 Find Me
 
 <p align="center">
-  <a href="https://asaishivanand-design.github.io/portfolio/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="38" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sai-shivanand-appalla-9398b3321/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="38" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/asaishivanand-design">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="38" alt="GitHub" />
-  </a>
+  <a href="https://asaishivanand-design.github.io/portfolio/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="36" alt="Portfolio" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sai-shivanand-appalla-9398b3321/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="36" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/asaishivanand-design"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" alt="GitHub" /></a>
 </p>
 
 ### 🧠 Final Boss
