@@ -6,11 +6,11 @@
 
 > I break things, build things, and occasionally make them work.
 
-Currently studying **CSE (AI/ML)** at SRM University AP, while messing around with **backend, AI research, computer vision, and cybersecurity**.
+CSE (AI/ML) student at **SRM University AP**. Building stuff around **backend, AI research, computer vision, and cybersecurity**.
 
 ### 🔭 Currently
 
-- Building stuff I probably shouldn't be building at 2 AM
+- Building things I probably shouldn't be building at 2 AM
 - Researching **AI-generated & manipulated scientific images**
 - Learning **FastAPI, Spring Boot, and full-stack development**
 - Contributing to open source and pretending my GitHub activity is a life plan
@@ -26,7 +26,7 @@ Hybrid **CNN + Vision Transformer** pipeline for detecting AI-generated and steg
 
 `Python` `C++` `Java` `FastAPI` `Spring Boot` `PyTorch` `TensorFlow` `OpenCV` `Docker` `Git` `Linux`
 
-### 🎮 GitHub, but make it violent
+### 🎮 Contribution Shooter
 
 <p align="center">
   <img src="./game.gif" alt="GitHub contribution space shooter" width="100%" />
@@ -42,13 +42,15 @@ Hybrid **CNN + Vision Transformer** pipeline for detecting AI-generated and steg
 
 <p align="center">
   <a href="https://asaishivanand-design.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" height="36" alt="Portfolio" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="38" alt="Portfolio" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sai-shivanand-appalla-9398b3321/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="38" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/asaishivanand-design">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" height="36" alt="GitHub" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="38" alt="GitHub" />
   </a>
 </p>
 
