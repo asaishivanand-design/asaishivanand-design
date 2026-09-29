@@ -26,6 +26,18 @@ Hybrid **CNN + Vision Transformer** pipeline for detecting AI-generated and steg
 
 `Python` `C++` `Java` `FastAPI` `Spring Boot` `PyTorch` `TensorFlow` `OpenCV` `Docker` `Git` `Linux`
 
+### 🎮 GitHub, but make it violent
+
+<p align="center">
+  <img src="./game.gif" alt="GitHub contribution space shooter" width="100%" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/asaishivanand-design/asaishivanand-design/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="100%" />
+</p>
+
 ### 🌐 Find Me
 
 <p align="center">
