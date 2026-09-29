@@ -41,9 +41,17 @@ Hybrid **CNN + Vision Transformer** pipeline for detecting AI-generated and steg
 ### 🌐 Find Me
 
 <p align="center">
-  <a href="https://asaishivanand-design.github.io/portfolio/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/sai-shivanand-appalla-9398b3321/">LinkedIn</a> ·
-  <a href="https://github.com/asaishivanand-design">GitHub</a>
+  <a href="https://asaishivanand-design.github.io/portfolio/">
+    <img src="https://cdn.simpleicons.org/googlechrome" width="42" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sai-shivanand-appalla-9398b3321/">
+    <img src="https://cdn.simpleicons.org/linkedin" width="42" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/asaishivanand-design">
+    <img src="https://cdn.simpleicons.org/github" width="42" alt="GitHub" />
+  </a>
 </p>
 
 ### 🧠 Final Boss
